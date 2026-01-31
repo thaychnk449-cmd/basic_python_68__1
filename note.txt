@@ -1,0 +1,22 @@
+git clone https://github.com/thaychnk449-cmd/basic_python_68__1.git
+
+cd name_folder
+cd ..
+ls
+ls -al
+pwd
+
+code .
+antigravity .
+
+git init
+git remote add origin https://github.com/thaychnk449-cmd/basic_python_68__1.git
+
+git config --global user.name "Thanchanok"
+git config --global user.email "thaychnk449"
+
+git add .
+git commit -m "Setup project"
+git push origin main
+
+git pull origin main
